@@ -5,11 +5,14 @@ toc: false
 about: 
   template: trestles
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/kelsey--warren/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/kelsey-warren
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:kelsey.warren-1@colorado.edu
 ---
 
@@ -37,9 +40,3 @@ Whitebark Pine Ecosystem Foundation \| Ambassador \| November 2022 - March 2024
 Wildlands Studies \| Teaching Assistant, Hawai'i and New Zealand \| June 2022 - May 2024
 
 :::
-
-### This content appears below the formatted about page content.
-
-```{r}
-1 + 1
-```
