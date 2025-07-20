@@ -9,10 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - bren_projects.qmd
+      - phd_page.qmd
+      - publications.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: morph
     css: styles.css
     toc: true
     page-layout: full
