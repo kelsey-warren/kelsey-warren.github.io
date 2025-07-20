@@ -1,10 +1,44 @@
 ---
-title: "kelsey-warren.github.io"
+title: "Kelsey Warren"
+image: media/headshot_website.jpeg
+toc: false
+about: 
+  template: trestles
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/kelsey--warren/
+    - text: GitHub
+      href: https://github.com/kelsey-warren
+    - text: Email
+      href: mailto:kelsey.warren-1@colorado.edu
 ---
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! I'm Kelsey, a PhD student at the Institute of Arctic and Alpine Research (INSTAAR) at CU Boulder. I'm interested in all things mountains, forests, snow, and public health. Outside of academia, I love running, skiing, and cooking dinner with friends.
+
+## Education
+
+University of Colorado Boulder (INSTAAR) \|
+PhD \| 2029
+
+University of California, Santa Barbara (Bren) \|
+Master of Environmental Science and Management \| June 2025
+
+University of California, Los Angeles \|
+B.S. in Biology \| June 2022
+
+## Experience
+
+United Nations \| Climate Adaptation Intern \| June - September 2024
+
+Whitebark Pine Ecosystem Foundation \| Ambassador \| November 2022 - March 2024
+
+Wildlands Studies \| Teaching Assistant, Hawai'i and New Zealand \| June 2022 - May 2024
+
+:::
+
+### This content appears below the formatted about page content.
 
 ```{r}
 1 + 1
