@@ -16,20 +16,16 @@ about:
       href: mailto:kelsey.warren-1@colorado.edu
 ---
 
-:::{#hero-heading}
-
+::: {#hero-heading}
 Hi! I'm Kelsey, a PhD student at the Institute of Arctic and Alpine Research (INSTAAR) at CU Boulder. I'm interested in all things mountains, forests, snow, and public health. Outside of academia, I love running, skiing, and cooking dinner with friends.
 
 ## Education
 
-University of Colorado Boulder (INSTAAR) \|
-PhD \| 2029
+University of Colorado Boulder (INSTAAR) \| PhD \| 2029
 
-University of California, Santa Barbara (Bren) \|
-Master of Environmental Science and Management \| June 2025
+University of California, Santa Barbara (Bren) \| Master of Environmental Science and Management \| June 2025
 
-University of California, Los Angeles \|
-B.S. in Biology \| June 2022
+University of California, Los Angeles \| B.S. in Biology \| June 2022
 
 ## Experience
 
@@ -38,5 +34,4 @@ United Nations \| Climate Adaptation Intern \| June - September 2024
 Whitebark Pine Ecosystem Foundation \| Ambassador \| November 2022 - March 2024
 
 Wildlands Studies \| Teaching Assistant, Hawai'i and New Zealand \| June 2022 - May 2024
-
 :::
