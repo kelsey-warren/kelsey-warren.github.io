@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Kelsey Warren",
@@ -26,5 +19,12 @@
     "title": "Kelsey Warren",
     "section": "",
     "text": "United Nations | Climate Adaptation Intern | June - September 2024\nWhitebark Pine Ecosystem Foundation | Ambassador | November 2022 - March 2024\nWildlands Studies | Teaching Assistant, Hawai’i and New Zealand | June 2022 - May 2024"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
